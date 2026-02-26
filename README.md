@@ -2,11 +2,6 @@
 This project evaluates **three anomaly detection methods** on two wafer datasets (**Wafer 1** and **Wafer 2**) under **realistic manufacturing constraints**.
 The emphasis is **not headline accuracy**, but **model behavior, failure modes, and anomaly detection effectiveness** in highly imbalanced data.
 
-## Repository Structure
-├── DetectingAnomallies.ipynb # Main analysis notebook
-├── DetectingAnomallies.html # Exported HTML version
-└── README.md
-
 ## Dataset
 The wafer fault detection dataset is sourced from:
 
